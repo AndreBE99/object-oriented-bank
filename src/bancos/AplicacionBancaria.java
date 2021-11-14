@@ -55,7 +55,7 @@ public class AplicacionBancaria {
 			}
 		} while(action != 9);
 		
-		System.out.println("\n\tAdiós!");
+		System.out.println("\n\tAdiós! :)");
 
 	}
 	
