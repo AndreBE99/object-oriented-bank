@@ -56,7 +56,6 @@ public class AplicacionBancaria {
 		} while(action != 9);
 		
 		System.out.println("\n\tAdiós! :)");
-
 	}
 	
 	private static void printMenu() {
@@ -81,5 +80,4 @@ public class AplicacionBancaria {
 		} while((action < 1) || (action > 9));
 		return action;
 	}
-
 }

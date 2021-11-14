@@ -167,7 +167,4 @@ public class Banco {
 		System.out.println("Se pagaron todos los intereses!");
 		printCustomers();
 	}
-	
-	// Método para hacer transacción
-
 }
